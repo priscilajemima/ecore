@@ -1,0 +1,2 @@
+# ecore
+Automation ecore
